@@ -17,4 +17,4 @@
 
 演示效果
 
-https://github.com/ThinkExplorer/ViewValidateAnnotation/blob/master/ViewValidateAnnotation/demo.gif
+![image](https://github.com/ThinkExplorer/ViewValidateAnnotation/blob/master/ViewValidateAnnotation/demo.gif)
