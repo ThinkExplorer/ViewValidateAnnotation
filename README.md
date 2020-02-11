@@ -14,3 +14,7 @@
 
 
 以上。本项目为本人首次在github上建立的项目，如代码中有不足之处或有改进建议，欢迎各位指正！
+
+演示效果
+
+https://github.com/ThinkExplorer/ViewValidateAnnotation/blob/master/ViewValidateAnnotation/demo.gif
