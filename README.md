@@ -21,7 +21,7 @@
 
 
 
-License
+<strong>License</strong>
 
 Copyright 2020 ThinkExplorer
 
